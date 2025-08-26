@@ -1,0 +1,55 @@
+<!DOCTYPE>
+<html>
+  <head>
+    
+    
+     <title>
+     NoticiasVNZA 
+     </title>
+    <style>
+      
+      h1 {
+        color: white;
+        background-color: black;
+        font-size: 40px;
+        font-family: Trebuchet MS;
+        text-align: center;
+        
+      }
+      
+    p1 { font-size: 15px;
+      color:  white;
+      background-color: black;
+      text-align: left;
+    }
+    
+    h2 { font-size: 20px;
+    text-align: left;
+    color: white;
+    }
+    
+      body { background-color: black;}
+      
+    </style>
+    
+   </head>
+  <body>
+  <h1> 
+  NoticiasVNZA:
+  </h1>
+  
+    <p1>
+    En los ultimos momentos se a registrado
+    Actos de violencia discriminatoria
+    hacia dilexicos. </p1>
+    
+     <h2> Y aqui estan las pruebas:
+  
+     </h2>
+       
+          <img src="/storage/emulated/0/Android/data/com.foxdebug.acodefree/cache/Gocho.png">
+    
+  </body>
+  
+  
+</html>
